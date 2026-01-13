@@ -31,6 +31,10 @@ O projeto teve como objetivo a exploração da ferramenta **Google NotebookLM** 
 - Análise Fundamentalista
 - Organização do conhecimento como “segundo cérebro”
 
+## 🔗 Acesso ao NotebookLM
+
+👉 [Clique aqui para acessar o NotebookLM]([INSIRA_O_LINK_AQUI](https://notebooklm.google.com/notebook/4fe40703-1705-4a84-9990-320b2a0e736d))
+
 ---
 
 📌 *Projeto com foco educacional e desenvolvimento de habilidades em organização do conhecimento e uso de IA aplicada ao aprendizado.*
