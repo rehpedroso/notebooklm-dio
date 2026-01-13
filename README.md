@@ -33,7 +33,7 @@ O projeto teve como objetivo a exploração da ferramenta **Google NotebookLM** 
 
 ## 🔗 Acesso ao NotebookLM
 
-👉 [Clique aqui para acessar o NotebookLM]([INSIRA_O_LINK_AQUI](https://notebooklm.google.com/notebook/4fe40703-1705-4a84-9990-320b2a0e736d))
+👉 [Clique aqui para acessar o NotebookLM]([https://notebooklm.google.com/notebook/4fe40703-1705-4a84-9990-320b2a0e736d])
 
 ---
 
